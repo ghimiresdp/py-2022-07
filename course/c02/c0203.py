@@ -94,7 +94,7 @@ f_name = "Kishor"
 m_name = "Kumar"
 l_name = "Rawal"
 
-full_name = f_name + '\t\t' + m_name + '\t\t' + l_name
+full_name = f_name + ' ' + m_name + ' ' + l_name
 
 print(full_name)
 # print(f_name, m_name, l_name)

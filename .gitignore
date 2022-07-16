@@ -1,3 +1,18 @@
 .env
 students/
+# .vscode/
+
+course/c02/c0204.py
+course/c02/c0204.py
+
+**/tmp*.py*
+
+tmp/**/not_important*.txt
+!tmp/**/important.py
+!tmp/tmp2/
+# **/important.py
+
+tmp*
+
+.idea/
 .vscode/
