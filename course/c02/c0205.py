@@ -136,3 +136,30 @@ print(data.startswith('Your'))
 data = "      My name is John.        "
 print(data, "Next Value")
 print(data.strip(), "Next Value")
+
+
+# Extracting substring from a string
+
+text = "Hello, I am John"
+# extracting single character
+print(text[0])      # H
+print(text[7])      # I
+print(text[12])     # J
+print(text[15])     # n
+print(text[-1])     # n
+print(text[-7])     # a
+
+# extracting more than 1 characters
+print(text[0:5])    # Hello
+print(text[9:11])   # am
+print(text[7:])     # I am John
+print(text[:5])     # Hello
+print(text[-9:-5])  # I am
+print(text[7:-5])  # I am
+print(text[-9:11])  # I am
+print(text[:])  # Hello, I am John
+
+# Extracting substrings with step
+print(text[0:5:2])  # Hlo
+print(text[::-1])  # nhoJ ma I ,olleH
+print(text[4::-1]) # 0lleH
