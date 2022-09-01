@@ -1,0 +1,14 @@
+school
+    - class
+        - desk
+            - length
+            - compart
+        - board
+        - windows
+        - chair
+        - teacher
+            - subject
+            - time
+            - detail
+        - students
+        - worker

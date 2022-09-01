@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Kishor",
+        "age": 20,
+        "Major": "Python"
+    },
+    {
+        "name": "Manish",
+        "age": 22,
+        "Major": "Javascript"
+    },
+    {
+        "name": "Rajendra",
+        "age": 24,
+        "Major": "Java"
+    }
+]

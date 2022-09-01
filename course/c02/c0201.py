@@ -45,3 +45,11 @@ name_two = "Manish Shrestha"
 # Constants
 COURSE = 201
 COMPANY_NAME = 'Vastika'
+
+age = 18
+name = "MB Singh"
+print(name*5)
+
+
+
+#
